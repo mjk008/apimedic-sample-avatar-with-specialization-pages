@@ -5,6 +5,7 @@
  * ApiMedic.com Sample Avatar, a demo implementation of the ApiMedic.com Symptom Checker by priaid Inc, Switzerland
  * 
  * Copyright (C) 2012 priaid inc, Switzerland
+ * 
  * This file is part of The Sample Avatar.
  * 
  * This is free implementation: you can redistribute it and/or modify it under the terms of the
